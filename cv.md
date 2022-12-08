@@ -24,3 +24,45 @@ My strengths:
 - Logical thinking
 - Striving for self-improvement
 - Responsible
+
+# **Skills**
+
+*******************
+
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git
+
+
+# **Code Example**
+
+***********************
+
+```
+function multiply(a, b){
+  return a * b
+}
+```
+
+# **Experience**
+
+**********************
+
+My first project: [CV#1. Markdown & Git](https://github.com/sergeytsvir/rsschool-cv/tree/gh-pages)
+
+
+# **Education**
+
+****************
+
+- University: Belarusian State Technological University
+    - Аutomation Engineer
+
+# **Languages**
+
+*****************
+
+- Russian - native speaker
+- English - A2 (B1 in process ...)
+
