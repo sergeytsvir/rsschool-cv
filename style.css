@@ -43,3 +43,29 @@ body {
   background-color: rgb(238, 207, 28);
   border: 2px solid black;
 }
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  position: relative;
+  text-decoration: none;
+  padding: 0px 10px;
+  line-height: 50px;
+  color: black;
+  transition: .5s;
+}
+
+.nav-item a {
+  text-decoration: none;
+  transition: .1s;
+}
+
+.nav-item a:hover {
+  color: rgb(249, 245, 240);
+}
+
