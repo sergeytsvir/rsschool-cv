@@ -63,9 +63,21 @@ body {
 .nav-item a {
   text-decoration: none;
   transition: .1s;
+  text-transform: uppercase;
 }
 
 .nav-item a:hover {
   color: rgb(249, 245, 240);
 }
+
+main {
+  margin-bottom: auto;
+}
+
+.main-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
 
