@@ -9,3 +9,11 @@
   src: url("assets/fonts/RobotoThin.ttf");
   font-weight: 300;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
