@@ -333,9 +333,6 @@ main {
   .nav {
     display: none;
   }
-  .toggle {
-    display: flex;
-  }
   .nav.collapsed {
     position: absolute;
     left: 0;
