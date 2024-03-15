@@ -4,4 +4,4 @@
 ## Constacts 
 * **Location**: Minsk, Belarus
 * **Email**: tsvir36@gmail.com
-* **GitHub**: [https://github.com/sergeytsvir](sergeytsvir)
+* **GitHub**: [sergeytsvir](https://github.com/sergeytsvir)
