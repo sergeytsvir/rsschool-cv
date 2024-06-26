@@ -11,4 +11,29 @@
 * GitHub: [sergeytsvir](https://github.com/sergeytsvir/rsschool-cv/blob/gh-pages/cv.md)
 ***********
 ## About me
+*********
+
+I want to be Front Developer.
+
+
+## Skills
+********
+
+
+1. HTML, CSS3
+2. JavaScript
+3. Git, GitHub
+
+## Code example
+
+**KATA from CODEWARS**: *Create a combat function that takes the player's current health and the amount of damage recieved, and returns the player's new health. Health can't be less than 0.*
+
+
+```
+function combat(health, damage) {
+  // Write your code here
+  return health - damage < 0 ? 0 : health - damage
+}
+```
+
 
