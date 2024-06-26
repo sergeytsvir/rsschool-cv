@@ -1,7 +1,7 @@
 # Tsvirko Sergei
-=======
-## Junior Frontend Developer 
-=======
+**********
+## Junior Frontend Developer
+**********
 ## Contact information
 
 
