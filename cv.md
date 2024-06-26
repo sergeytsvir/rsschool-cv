@@ -25,6 +25,7 @@ I want to be Front Developer.
 3. Git, GitHub
 
 ## Code example
+***********
 
 **KATA from CODEWARS**: *Create a combat function that takes the player's current health and the amount of damage recieved, and returns the player's new health. Health can't be less than 0.*
 
@@ -35,5 +36,19 @@ function combat(health, damage) {
   return health - damage < 0 ? 0 : health - damage
 }
 ```
+
+## Courses
+***********
+
+
+* HTML and CSS Tutorials on the w3schools (completed)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+
+
+## Languages
+********
+
+* Russian - Native
+* English - B1(B2 in progress)
 
 
